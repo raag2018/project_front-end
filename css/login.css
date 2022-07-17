@@ -1,0 +1,9 @@
+.form a {
+  color: var(--hospital-green);
+  font-size: var(--sm);
+  text-decoration: none;
+  margin-bottom: 52px;
+}
+.input-email {
+  margin-bottom: 22px;
+}
