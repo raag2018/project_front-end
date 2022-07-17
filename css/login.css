@@ -4,6 +4,8 @@
   text-decoration: none;
   margin-bottom: 52px;
 }
-.input-email {
+.input-email,
+.input-name,
+.input-password {
   margin-bottom: 22px;
 }
